@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "HN7s7Q0jYYea4ryc+J9e84G5lZZIYc/D7dMapszdgFlyO6pjhphhVyWGMWxeoTknAocGuutvnFj18JsXx3rwRA==",
+  "success": true,
+  "projectFilePath": "D:\\Kristof\\STR\\BME\\CIT MSc\\Semester 02\\Automation\\Homework - FEM-Design API\\MBE_250513\\MBE_250513.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krist\\.nuget\\packages\\femdesign.core\\24.0.0\\femdesign.core.24.0.0.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\fuzzysharp\\2.0.2\\fuzzysharp.2.0.2.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FemDesign.Core 24.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FemDesign.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

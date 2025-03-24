@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fdscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fdscriptheader fContinueOnError="1" fIgnoreParseError="1">
+    <title>FEM-Design script</title>
+    <version>2300</version>
+    <module>SFRAME</module>
+    <logfile>D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\FEM-Design API\logfile.log</logfile>
+  </fdscriptheader>
+  <cmdopen command="; CXL CS2SHELL OPEN">
+    <filename>D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\FEM-Design API\model.struxml</filename>
+  </cmdopen>
+</fdscript>

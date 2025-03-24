@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fdscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fdscriptheader fContinueOnError="1" fIgnoreParseError="1">
+    <title>FEM-Design script</title>
+    <version>2300</version>
+    <module>SFRAME</module>
+    <logfile>D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\FEM-Design API\logfile.log</logfile>
+  </fdscriptheader>
+  <cmduser command="; CXL $MODULE RESMODE" />
+  <cmdcalculation command="; CXL $MODULE CALC">
+    <analysis calcCase="1" calcCstage="0" calcImpf="0" calcComb="1" calcGmax="0" calcStab="0" calcFreq="0" calcSeis="0" calcFootfall="0" calcThGroundAcc="0" calcThExforce="0" calcPeriodicExc="0" calcDesign="0" elemfine="1" diaphragm="0" peaksmoothing="0">
+      <comb NLEmaxiter="30" PLdefloadstep="20" PLminloadstep="2" PlKeepLoadStep="true" PlTolerance="1" PLmaxeqiter="50" PlShellLayers="10" NLSMohr="true" NLSinitloadstep="10" NLSminloadstep="10" NLSactiveelemratio="5" NLSplasticelemratio="5" CRloadstep="20" CRmaxiter="30" CRstifferror="2">
+        <combitem Calc="1" NLE="1" PL="1" NLS="0" Cr="0" f2nd="0" Im="0" Waterlevel="0" ImpfRqd="0" StabRqd="0" Amplitudo="0" />
+      </comb>
+    </analysis>
+  </cmdcalculation>
+</fdscript>

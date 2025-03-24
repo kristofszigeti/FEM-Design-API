@@ -1,0 +1,38 @@
+C:\Users\krist\Desktop\MBE_250513\bin\Debug\net6.0\MBE_250513.exe
+C:\Users\krist\Desktop\MBE_250513\bin\Debug\net6.0\MBE_250513.deps.json
+C:\Users\krist\Desktop\MBE_250513\bin\Debug\net6.0\MBE_250513.runtimeconfig.json
+C:\Users\krist\Desktop\MBE_250513\bin\Debug\net6.0\MBE_250513.dll
+C:\Users\krist\Desktop\MBE_250513\bin\Debug\net6.0\MBE_250513.pdb
+C:\Users\krist\Desktop\MBE_250513\bin\Debug\net6.0\FemDesign.Core.dll
+C:\Users\krist\Desktop\MBE_250513\bin\Debug\net6.0\FuzzySharp.dll
+C:\Users\krist\Desktop\MBE_250513\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.csproj.AssemblyReference.cache
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.AssemblyInfoInputs.cache
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.AssemblyInfo.cs
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.csproj.CopyComplete
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.dll
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\refint\MBE_250513.dll
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.pdb
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\MBE_250513.genruntimeconfig.cache
+C:\Users\krist\Desktop\MBE_250513\obj\Debug\net6.0\ref\MBE_250513.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\MBE_250513.exe
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\MBE_250513.deps.json
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\MBE_250513.runtimeconfig.json
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\MBE_250513.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\MBE_250513.pdb
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\FemDesign.Core.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\FuzzySharp.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\bin\Debug\net6.0\Newtonsoft.Json.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.csproj.AssemblyReference.cache
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.GeneratedMSBuildEditorConfig.editorconfig
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.AssemblyInfoInputs.cache
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.AssemblyInfo.cs
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.csproj.CoreCompileInputs.cache
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.csproj.CopyComplete
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\refint\MBE_250513.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.pdb
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\MBE_250513.genruntimeconfig.cache
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\MBE_250513\obj\Debug\net6.0\ref\MBE_250513.dll
